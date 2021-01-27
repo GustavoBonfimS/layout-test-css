@@ -1,0 +1,180 @@
+.menuBg {
+  width: 100%;
+  height: 40px;
+}
+
+.menuBg a {
+  color: white;
+}
+
+.initialAbout {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  margin-top: 55px;
+}
+
+.initialAbout .aboutText {
+  max-width: 320px;
+  padding: 140px 0;
+  padding-right: 40px;
+}
+
+.groupIconsAbout {
+  margin-top: 55px;
+}
+
+.groupIconsAbout h3,
+p {
+  text-align: center;
+  max-width: 220px;
+  margin: auto;
+}
+
+.gridIconsLyout {
+  margin: auto;
+  height: 500px;
+}
+
+.infoItem {
+  border-radius: 20px;
+  max-width: 350px;
+}
+
+.infoItemImage {
+  margin-left: 50px;
+  width: auto;
+  height: auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.gridIconsLyout .infoItem h5 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.gridIconsLyout .infoItem img {
+  z-index: -1;
+}
+
+.supportInfo {
+  width: 900px;
+  margin: auto;
+  padding-bottom: 20px;
+  border-radius: 15px;
+
+  background: rgba(240, 233, 233, 0.315);
+}
+
+.supportInfo .textInfo {
+  max-width: 300px;
+  justify-content: flex-end;
+}
+
+.supportInfo .textInfo h4 {
+  max-width: 300px;
+}
+
+.supportInfo img {
+  max-width: 500px;
+  max-height: 450px;
+  width: auto;
+  height: auto;
+}
+
+.allYouNeed {
+  margin: auto;
+  height: 600px;
+  width: 1000px;
+}
+
+.appImage {
+  width: auto;
+  height: auto;
+  max-width: 250px;
+  max-height: 230px;
+
+  margin-left: 10px;
+}
+
+.appImagesLayout {
+  padding-top: 100px;
+  padding-left: 60px;
+}
+
+.textInfosApp {
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.textInfosApp h4 {
+  max-width: 300px;
+  margin-left: 34px;
+}
+
+.weNeed {
+  height: 500px;
+  width: 1000px;
+  margin: auto;
+  border-radius: 15px;
+
+  background: rgba(240, 233, 233, 0.315);
+}
+
+.weNeed h4 {
+  margin-top: 125px;
+  margin-left: 90px;
+}
+
+.weNeed p {
+  margin-left: 90px;
+  text-align: left;
+}
+
+.imageCooperation {
+  width: auto;
+  height: auto;
+  max-height: 540px;
+  max-width: 850px;
+
+  margin-left: 50px;
+}
+
+.talkWithUs {
+
+  margin-top: 200px;
+  margin: 140px;
+}
+
+.talkWithUs img {
+  width: auto;
+  height: auto;
+  max-height: 540px;
+  max-width: 850px;
+}
+
+.btnEnviar {
+  width: 300px;
+  border-radius: 20px;
+}
+
+footer {
+  background: rgba(240, 233, 233, 0.315);
+  height: 200px;
+}
+
+footer h4 {
+  margin-left: 270px;
+  
+}
+
+footer img {
+  margin-left: 200px;
+}
+
+footer a {
+  color: red;
+}
